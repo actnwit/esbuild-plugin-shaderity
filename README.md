@@ -1,5 +1,9 @@
 # esbuild-plugin-shaderity
 
+## What's this?
+
+A ESBuild plugin for [shaderity](https://github.com/actnwit/shaderity), which is a web-oriented shader utility.
+
 ## Config
 
 Write a node program file as following:
