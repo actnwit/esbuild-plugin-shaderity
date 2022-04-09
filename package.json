@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/actnwit/esbuild-plugin-shaderity.git",
   "author": "Yuki Shimada <emadurandal@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "shaderity-node": "0.0.6"
+  }
 }

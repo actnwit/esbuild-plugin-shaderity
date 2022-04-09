@@ -25,7 +25,7 @@ module.exports = options => {
         };
 
         return {
-          contents: json,
+          contents: JSON.stringify(json),
           loader: 'json'
         }
       });
