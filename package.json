@@ -1,6 +1,6 @@
 {
   "name": "esbuild-plugin-shaderity",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "repository": "https://github.com/actnwit/esbuild-plugin-shaderity.git",
   "author": "Yuki Shimada <emadurandal@gmail.com>",
