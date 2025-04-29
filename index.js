@@ -6,7 +6,7 @@ module.exports = options => {
   return {
     name: 'shaderity',
     setup (build) {
-      build.onResolve({ filter: /\.(glsl|vs|fs|vert|frag)$/ }, (args) => {
+      build.onResolve({ filter: /\.(glsl|vs|fs|vert|frag|wgsl)$/ }, (args) => {
         return {
           path: path.resolve(args.resolveDir, args.path),
           namespace: 'shaderity'
