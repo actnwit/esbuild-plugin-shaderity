@@ -6,6 +6,6 @@
   "author": "Yuki Shimada <emadurandal@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "shaderity-node": "0.0.6"
+    "shaderity-node": "0.0.8"
   }
 }
